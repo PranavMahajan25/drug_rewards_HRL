@@ -1,2 +1,9 @@
-# drug_rewards_HRL
-Code for paper titled: Doing what’s not wanted: conflict in incentives and misallocation of behavioural control can lead to drug-seeking despite adverse outcomes
+# Doing what’s not wanted
+## Conflict in incentives and misallocation of behavioural control can lead to drug-seeking despite adverse outcomes [ <a href="https://www.biorxiv.org/content/10.1101/2022.06.09.495458v1"> Addiction Neuroscience article link </a> ]
+
+A project with LNC2, ENS Paris, funded by ERASMUS iBrain.
+
+Abstract:
+Despite being aware of negative consequences and wanting to quit, long-term addicts find it difficult to quit seeking and consuming drugs. This inconsistency between the (often compulsive) behavioural patterns and the explicit knowledge of negative consequences represents a cognitive conflict which is a central characteristic of addiction. Neurobiologically, differential cue-induced activity in distinct striatal subregions, as well as the dopamine connectivity spiraling from ventral striatal regions to the dorsal regions, play critical roles in compulsive drug seeking. The focus of this work is to illustrate the mechanisms that lead to a cognitive conflict and it’s impact on actions taken i.e. addictive choices. We propose an algorithmic model that captures how the action choices that the agent makes when reinforced with drug-rewards become impervious to the presence of negative consequences that often follow those choices. We advance the understanding of having a decision hierarchy in representing “cognitive control” and how lack of such control at higher-level in the hierarchy could potentially lead to consolidated drug-seeking habits. We further propose a cost-benefit based arbitration scheme, which mediates the allocation of control across different levels of the decision-making hierarchy. Lastly, we discuss how our algorithmic model could help us understand how addictive drugs progressively hijack the dopamine-spiralling circuit at the neural implementation level.
+
+
